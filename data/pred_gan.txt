@@ -1,0 +1,1465 @@
+[WED] [JAN] [False] [180]] 0
+[MON] [JAN] [False] [190]] 0
+[SAT] [JAN] [True] [200]] 
+[FRI] [JAN] [False] [210]] 00
+[WED] [JAN] [False] [220]] 0
+[WED] [FEB] [False] [189]] 0
+[MON] [FEB] [False] [199]] 0
+[SUN] [FEB] [False] [209]] 00
+[FRI] [FEB] [False] [219]] 00
+[TUE] [MAR] [False] [189]] 0
+[SUN] [MAR] [False] [199]] 00
+[SAT] [MAR] [False] [209]] 0
+[THU] [MAR] [False] [219]] 00
+[THU] [APR] [False] [189]] 00
+[TUE] [APR] [False] [199]] 00
+[MON] [APR] [False] [209]] 0
+[SAT] [APR] [False] [219]] 0
+[FRI] [MAY] [True] [189]] 
+[WED] [MAY] [True] [199]] 
+[TUE] [MAY] [True] [209]] 
+[SUN] [MAY] [True] [219]] 
+[SAT] [JUN] [False] [189]] 0
+[THU] [JUN] [False] [199]] 0
+[WED] [JUN] [False] [209]] 0
+[MON] [JUN] [False] [219]] 0
+[SUN] [JUL] [False] [189]] 0
+[FRI] [JUL] [False] [199]] 00
+[THU] [JUL] [False] [209]] 0
+[TUE] [JUL] [False] [219]] 0
+[TUE] [AUG] [False] [189]] 0
+[SUN] [AUG] [False] [199]] 00
+[SAT] [AUG] [False] [209]] 0
+[THU] [AUG] [False] [219]] 00
+[THU] [SEP] [True] [189]] 
+[TUE] [SEP] [True] [199]] 
+[MON] [SEP] [True] [209]] 
+[SAT] [SEP] [True] [219]] 
+[THU] [OCT] [False] [189]] 00
+[TUE] [OCT] [False] [199]] 0
+[MON] [OCT] [False] [209]] 0
+[SAT] [OCT] [False] [219]] 0
+[SAT] [NOV] [False] [189]] 0
+[THU] [NOV] [False] [199]] 0
+[WED] [NOV] [False] [209]] 0
+[MON] [NOV] [False] [219]] 0
+[SUN] [DEC] [False] [188]] 0
+[FRI] [DEC] [False] [198]] 0
+[THU] [DEC] [False] [208]] 0
+[TUE] [DEC] [False] [218]] 0
+[MON] [JAN] [True] [188]] 
+[SAT] [JAN] [True] [198]] 
+[FRI] [JAN] [True] [208]] 
+[WED] [JAN] [True] [218]] 
+[WED] [FEB] [False] [188]] 0
+[MON] [FEB] [False] [198]] 0
+[SUN] [FEB] [False] [208]] 00
+[FRI] [FEB] [False] [218]] 00
+[TUE] [MAR] [False] [188]] 0
+[SUN] [MAR] [False] [198]] 00
+[SAT] [MAR] [False] [208]] 0
+[THU] [MAR] [False] [218]] 00
+[THU] [APR] [False] [188]] 00
+[TUE] [APR] [False] [198]] 00
+[MON] [APR] [False] [208]] 0
+[SAT] [APR] [False] [218]] 0
+[FRI] [MAY] [True] [188]] 
+[WED] [MAY] [True] [198]] 
+[TUE] [MAY] [True] [208]] 
+[SUN] [MAY] [True] [218]] 
+[SAT] [JUN] [False] [188]] 0
+[THU] [JUN] [False] [198]] 0
+[WED] [JUN] [False] [208]] 0
+[MON] [JUN] [False] [218]] 0
+[SUN] [JUL] [False] [188]] 0
+[FRI] [JUL] [False] [198]] 0
+[THU] [JUL] [False] [208]] 0
+[TUE] [JUL] [False] [218]] 0
+[TUE] [AUG] [False] [188]] 0
+[SUN] [AUG] [False] [198]] 00
+[SAT] [AUG] [False] [208]] 0
+[THU] [AUG] [False] [218]] 00
+[THU] [SEP] [True] [188]] 
+[TUE] [SEP] [True] [198]] 
+[MON] [SEP] [True] [208]] 
+[SAT] [SEP] [True] [218]] 
+[THU] [OCT] [False] [187]] 00
+[TUE] [OCT] [False] [197]] 0
+[MON] [OCT] [False] [207]] 0
+[SAT] [OCT] [False] [217]] 0
+[SAT] [NOV] [False] [187]] 0
+[THU] [NOV] [False] [197]] 0
+[WED] [NOV] [False] [207]] 0
+[MON] [NOV] [False] [217]] 0
+[SUN] [DEC] [False] [187]] 0
+[FRI] [DEC] [False] [197]] 0
+[THU] [DEC] [False] [207]] 0
+[TUE] [DEC] [False] [217]] 0
+[MON] [JAN] [True] [187]] 
+[SAT] [JAN] [True] [197]] 
+[FRI] [JAN] [True] [207]] 
+[WED] [JAN] [True] [217]] 
+[WED] [FEB] [False] [187]] 0
+[MON] [FEB] [False] [197]] 0
+[SUN] [FEB] [False] [207]] 0
+[FRI] [FEB] [False] [217]] 00
+[TUE] [MAR] [False] [187]] 0
+[SUN] [MAR] [False] [197]] 00
+[SAT] [MAR] [False] [207]] 0
+[THU] [MAR] [False] [217]] 00
+[THU] [APR] [False] [187]] 00
+[TUE] [APR] [False] [197]] 00
+[MON] [APR] [False] [207]] 0
+[SAT] [APR] [False] [217]] 0
+[FRI] [MAY] [True] [187]] 
+[WED] [MAY] [True] [197]] 
+[TUE] [MAY] [True] [207]] 
+[SUN] [MAY] [True] [217]] 
+[SAT] [JUN] [False] [187]] 0
+[THU] [JUN] [False] [197]] 0
+[WED] [JUN] [False] [207]] 0
+[MON] [JUN] [False] [217]] 0
+[SUN] [JUL] [False] [187]] 0
+[FRI] [JUL] [False] [197]] 0
+[THU] [JUL] [False] [207]] 0
+[TUE] [JUL] [False] [217]] 0
+[TUE] [AUG] [False] [186]] 00
+[SUN] [AUG] [False] [196]] 00
+[SAT] [AUG] [False] [206]] 0
+[THU] [AUG] [False] [216]] 00
+[THU] [SEP] [True] [186]] 
+[TUE] [SEP] [True] [196]] 
+[MON] [SEP] [True] [206]] 
+[SAT] [SEP] [True] [216]] 
+[THU] [OCT] [False] [186]] 00
+[TUE] [OCT] [False] [196]] 0
+[MON] [OCT] [False] [206]] 0
+[SAT] [OCT] [False] [216]] 0
+[SAT] [NOV] [False] [186]] 0
+[THU] [NOV] [False] [196]] 0
+[WED] [NOV] [False] [206]] 0
+[MON] [NOV] [False] [216]] 0
+[SUN] [DEC] [False] [186]] 0
+[FRI] [DEC] [False] [196]] 0
+[THU] [DEC] [False] [206]] 0
+[TUE] [DEC] [False] [216]] 0
+[MON] [JAN] [True] [186]] 
+[SAT] [JAN] [True] [196]] 
+[FRI] [JAN] [True] [206]] 
+[WED] [JAN] [True] [216]] 
+[WED] [FEB] [False] [186]] 0
+[MON] [FEB] [False] [196]] 0
+[SUN] [FEB] [False] [206]] 00
+[FRI] [FEB] [False] [216]] 00
+[TUE] [MAR] [False] [186]] 0
+[SUN] [MAR] [False] [196]] 00
+[SAT] [MAR] [False] [206]] 0
+[THU] [MAR] [False] [216]] 00
+[THU] [APR] [False] [186]] 00
+[TUE] [APR] [False] [196]] 00
+[MON] [APR] [False] [206]] 0
+[SAT] [APR] [False] [216]] 0
+[FRI] [MAY] [True] [186]] 
+[WED] [MAY] [True] [196]] 
+[TUE] [MAY] [True] [206]] 
+[SUN] [MAY] [True] [216]] 
+[SAT] [JUN] [False] [185]] 0
+[THU] [JUN] [False] [195]] 0
+[WED] [JUN] [False] [205]] 0
+[MON] [JUN] [False] [215]] 0
+[SUN] [JUL] [False] [185]] 0
+[FRI] [JUL] [False] [195]] 0
+[THU] [JUL] [False] [205]] 0
+[TUE] [JUL] [False] [215]] 0
+[TUE] [AUG] [False] [185]] 0
+[SUN] [AUG] [False] [195]] 00
+[SAT] [AUG] [False] [205]] 0
+[THU] [AUG] [False] [215]] 00
+[THU] [SEP] [True] [185]] 
+[TUE] [SEP] [True] [195]] 
+[MON] [SEP] [True] [205]] 
+[SAT] [SEP] [True] [215]] 
+[THU] [OCT] [False] [185]] 00
+[TUE] [OCT] [False] [195]] 0
+[MON] [OCT] [False] [205]] 0
+[SAT] [OCT] [False] [215]] 0
+[SAT] [NOV] [False] [185]] 0
+[THU] [NOV] [False] [195]] 0
+[WED] [NOV] [False] [205]] 0
+[MON] [NOV] [False] [215]] 0
+[SUN] [DEC] [False] [185]] 0
+[FRI] [DEC] [False] [195]] 0
+[THU] [DEC] [False] [205]] 0
+[TUE] [DEC] [False] [215]] 0
+[MON] [JAN] [True] [185]] 
+[SAT] [JAN] [True] [195]] 
+[FRI] [JAN] [True] [205]] 
+[WED] [JAN] [True] [215]] 
+[WED] [FEB] [False] [185]] 0
+[MON] [FEB] [False] [195]] 0
+[SUN] [FEB] [False] [205]] 00
+[FRI] [FEB] [False] [215]] 00
+[TUE] [MAR] [False] [185]] 0
+[SUN] [MAR] [False] [195]] 00
+[SAT] [MAR] [False] [205]] 0
+[THU] [MAR] [False] [215]] 00
+[THU] [APR] [False] [184]] 00
+[TUE] [APR] [False] [194]] 0
+[MON] [APR] [False] [204]] 0
+[SAT] [APR] [False] [214]] 00
+[FRI] [MAY] [True] [184]] 
+[WED] [MAY] [True] [194]] 
+[TUE] [MAY] [True] [204]] 
+[SUN] [MAY] [True] [214]] 
+[SAT] [JUN] [False] [184]] 0
+[THU] [JUN] [False] [194]] 0
+[WED] [JUN] [False] [204]] 0
+[MON] [JUN] [False] [214]] 0
+[SUN] [JUL] [False] [184]] 0
+[FRI] [JUL] [False] [194]] 0
+[THU] [JUL] [False] [204]] 0
+[TUE] [JUL] [False] [214]] 0
+[TUE] [AUG] [False] [184]] 0
+[SUN] [AUG] [False] [194]] 00
+[SAT] [AUG] [False] [204]] 0
+[THU] [AUG] [False] [214]] 00
+[THU] [SEP] [True] [184]] 
+[TUE] [SEP] [True] [194]] 
+[MON] [SEP] [True] [204]] 
+[SAT] [SEP] [True] [214]] 
+[THU] [OCT] [False] [184]] 00
+[TUE] [OCT] [False] [194]] 0
+[MON] [OCT] [False] [204]] 0
+[SAT] [OCT] [False] [214]] 0
+[SAT] [NOV] [False] [184]] 0
+[THU] [NOV] [False] [194]] 0
+[WED] [NOV] [False] [204]] 0
+[MON] [NOV] [False] [214]] 0
+[SUN] [DEC] [False] [184]] 0
+[FRI] [DEC] [False] [194]] 0
+[THU] [DEC] [False] [204]] 0
+[TUE] [DEC] [False] [214]] 0
+[MON] [JAN] [True] [184]] 
+[SAT] [JAN] [True] [194]] 
+[FRI] [JAN] [True] [204]] 
+[WED] [JAN] [True] [214]] 
+[WED] [FEB] [False] [183]] 0
+[MON] [FEB] [False] [193]] 0
+[SUN] [FEB] [False] [203]] 00
+[FRI] [FEB] [False] [213]] 00
+[TUE] [MAR] [False] [183]] 0
+[SUN] [MAR] [False] [193]] 00
+[SAT] [MAR] [False] [203]] 0
+[THU] [MAR] [False] [213]] 00
+[THU] [APR] [False] [183]] 00
+[TUE] [APR] [False] [193]] 00
+[MON] [APR] [False] [203]] 0
+[SAT] [APR] [False] [213]] 0
+[FRI] [MAY] [True] [183]] 
+[WED] [MAY] [True] [193]] 
+[TUE] [MAY] [True] [203]] 
+[SUN] [MAY] [True] [213]] 
+[SAT] [JUN] [False] [183]] 0
+[THU] [JUN] [False] [193]] 0
+[WED] [JUN] [False] [203]] 0
+[MON] [JUN] [False] [213]] 0
+[SUN] [JUL] [False] [183]] 0
+[FRI] [JUL] [False] [193]] 0
+[THU] [JUL] [False] [203]] 0
+[TUE] [JUL] [False] [213]] 0
+[TUE] [AUG] [False] [183]] 0
+[SUN] [AUG] [False] [193]] 00
+[SAT] [AUG] [False] [203]] 0
+[THU] [AUG] [False] [213]] 00
+[THU] [SEP] [True] [183]] 
+[TUE] [SEP] [True] [193]] 
+[MON] [SEP] [True] [203]] 
+[SAT] [SEP] [True] [213]] 
+[THU] [OCT] [False] [183]] 00
+[TUE] [OCT] [False] [193]] 0
+[MON] [OCT] [False] [203]] 0
+[SAT] [OCT] [False] [213]] 0
+[SAT] [NOV] [False] [183]] 0
+[THU] [NOV] [False] [193]] 0
+[WED] [NOV] [False] [203]] 0
+[MON] [NOV] [False] [213]] 0
+[SUN] [DEC] [False] [182]] 0
+[FRI] [DEC] [False] [192]] 0
+[THU] [DEC] [False] [202]] 0
+[TUE] [DEC] [False] [212]] 0
+[MON] [JAN] [True] [182]] 
+[SAT] [JAN] [True] [192]] 
+[FRI] [JAN] [True] [202]] 
+[WED] [JAN] [True] [212]] 
+[WED] [FEB] [False] [182]] 0
+[MON] [FEB] [False] [192]] 0
+[SUN] [FEB] [False] [202]] 00
+[FRI] [FEB] [False] [212]] 00
+[TUE] [MAR] [False] [182]] 0
+[SUN] [MAR] [False] [192]] 00
+[SAT] [MAR] [False] [202]] 0
+[THU] [MAR] [False] [212]] 00
+[THU] [APR] [False] [182]] 00
+[TUE] [APR] [False] [192]] 00
+[MON] [APR] [False] [202]] 0
+[SAT] [APR] [False] [212]] 0
+[FRI] [MAY] [True] [182]] 
+[WED] [MAY] [True] [192]] 
+[TUE] [MAY] [True] [202]] 
+[SUN] [MAY] [True] [212]] 
+[SAT] [JUN] [False] [182]] 0
+[THU] [JUN] [False] [192]] 0
+[WED] [JUN] [False] [202]] 0
+[MON] [JUN] [False] [212]] 0
+[SUN] [JUL] [False] [182]] 0
+[FRI] [JUL] [False] [192]] 0
+[THU] [JUL] [False] [202]] 0
+[TUE] [JUL] [False] [212]] 0
+[TUE] [AUG] [False] [182]] 0
+[SUN] [AUG] [False] [192]] 00
+[SAT] [AUG] [False] [202]] 0
+[THU] [AUG] [False] [212]] 00
+[THU] [SEP] [True] [182]] 
+[TUE] [SEP] [True] [192]] 
+[MON] [SEP] [True] [202]] 
+[SAT] [SEP] [True] [212]] 
+[THU] [OCT] [False] [181]] 00
+[TUE] [OCT] [False] [191]] 0
+[MON] [OCT] [False] [201]] 0
+[SAT] [OCT] [False] [211]] 0
+[SAT] [NOV] [False] [181]] 0
+[THU] [NOV] [False] [191]] 0
+[WED] [NOV] [False] [201]] 0
+[MON] [NOV] [False] [211]] 0
+[SUN] [DEC] [False] [181]] 0
+[FRI] [DEC] [False] [191]] 0
+[THU] [DEC] [False] [201]] 0
+[TUE] [DEC] [False] [211]] 0
+[MON] [JAN] [True] [181]] 
+[SAT] [JAN] [True] [191]] 
+[FRI] [JAN] [True] [201]] 
+[WED] [JAN] [True] [211]] 
+[WED] [FEB] [False] [181]] 0
+[MON] [FEB] [False] [191]] 0
+[SUN] [FEB] [False] [201]] 00
+[FRI] [FEB] [False] [211]] 00
+[TUE] [MAR] [False] [181]] 0
+[SUN] [MAR] [False] [191]] 00
+[SAT] [MAR] [False] [201]] 0
+[THU] [MAR] [False] [211]] 00
+[THU] [APR] [False] [181]] 00
+[TUE] [APR] [False] [191]] 00
+[MON] [APR] [False] [201]] 0
+[SAT] [APR] [False] [211]] 0
+[FRI] [MAY] [True] [181]] 
+[WED] [MAY] [True] [191]] 
+[TUE] [MAY] [True] [201]] 
+[SUN] [MAY] [True] [211]] 
+[SAT] [JUN] [False] [181]] 0
+[THU] [JUN] [False] [191]] 0
+[WED] [JUN] [False] [201]] 0
+[MON] [JUN] [False] [211]] 0
+[SUN] [JUL] [False] [181]] 0
+[FRI] [JUL] [False] [191]] 0
+[THU] [JUL] [False] [201]] 0
+[TUE] [JUL] [False] [211]] 0
+[TUE] [AUG] [False] [180]] 0
+[SUN] [AUG] [False] [190]] 00
+[SAT] [AUG] [False] [200]] 0
+[THU] [AUG] [False] [210]] 00
+[THU] [SEP] [True] [180]] 
+[TUE] [SEP] [True] [190]] 
+[MON] [SEP] [True] [200]] 
+[SAT] [SEP] [True] [210]] 
+[THU] [OCT] [False] [180]] 00
+[TUE] [OCT] [False] [190]] 0
+[MON] [OCT] [False] [200]] 0
+[SAT] [OCT] [False] [210]] 0
+[SAT] [NOV] [False] [180]] 0
+[THU] [NOV] [False] [190]] 0
+[WED] [NOV] [False] [200]] 0
+[MON] [NOV] [False] [210]] 0
+[SUN] [DEC] [False] [180]] 0
+[FRI] [DEC] [False] [190]] 0
+[THU] [DEC] [False] [200]] 0
+[TUE] [DEC] [False] [210]] 0
+[MON] [JAN] [True] [180]] 
+[SAT] [JAN] [True] [190]] 
+[FRI] [JAN] [True] [200]] 
+[WED] [JAN] [True] [210]] 
+[WED] [FEB] [False] [180]] 0
+[MON] [FEB] [False] [190]] 0
+[SUN] [FEB] [False] [200]] 00
+[FRI] [FEB] [False] [210]] 00
+[TUE] [MAR] [False] [180]] 0
+[SUN] [MAR] [False] [190]] 00
+[SAT] [MAR] [False] [200]] 0
+[THU] [MAR] [False] [210]] 00
+[THU] [APR] [False] [180]] 00
+[TUE] [APR] [False] [190]] 00
+[MON] [APR] [False] [200]] 0
+[SAT] [APR] [False] [210]] 0
+[FRI] [MAY] [False] [180]] 00
+[WED] [MAY] [False] [190]] 0
+[TUE] [MAY] [True] [200]] 
+[SUN] [MAY] [False] [210]] 00
+[FRI] [MAY] [False] [220]] 00
+[FRI] [JUN] [False] [189]] 0
+[WED] [JUN] [False] [199]] 0
+[TUE] [JUN] [False] [209]] 0
+[SUN] [JUN] [False] [219]] 0
+[SAT] [JUL] [False] [189]] 0
+[THU] [JUL] [False] [199]] 0
+[WED] [JUL] [False] [209]] 0
+[MON] [JUL] [False] [219]] 0
+[MON] [AUG] [False] [189]] 0
+[SAT] [AUG] [False] [199]] 0
+[FRI] [AUG] [False] [209]] 00
+[WED] [AUG] [False] [219]] 0
+[WED] [SEP] [True] [189]] 
+[MON] [SEP] [True] [199]] 
+[SUN] [SEP] [True] [209]] 
+[FRI] [SEP] [True] [219]] 
+[WED] [OCT] [False] [189]] 0
+[MON] [OCT] [False] [199]] 0
+[SUN] [OCT] [False] [209]] 0
+[FRI] [OCT] [False] [219]] 00
+[FRI] [NOV] [False] [189]] 0
+[WED] [NOV] [False] [199]] 0
+[TUE] [NOV] [False] [209]] 0
+[SUN] [NOV] [False] [219]] 0
+[SAT] [DEC] [False] [189]] 0
+[THU] [DEC] [False] [199]] 0
+[WED] [DEC] [False] [209]] 0
+[MON] [DEC] [False] [219]] 0
+[SUN] [JAN] [True] [189]] 
+[FRI] [JAN] [True] [199]] 
+[THU] [JAN] [True] [209]] 
+[TUE] [JAN] [True] [219]] 
+[TUE] [FEB] [False] [189]] 0
+[SUN] [FEB] [False] [199]] 00
+[SAT] [FEB] [False] [209]] 0
+[THU] [FEB] [False] [219]] 00
+[MON] [MAR] [False] [189]] 0
+[SAT] [MAR] [False] [199]] 0
+[FRI] [MAR] [False] [209]] 00
+[WED] [MAR] [False] [219]] 0
+[WED] [APR] [False] [188]] 0
+[MON] [APR] [False] [198]] 0
+[SUN] [APR] [False] [208]] 00
+[FRI] [APR] [False] [218]] 00
+[THU] [MAY] [True] [188]] 
+[TUE] [MAY] [True] [198]] 
+[MON] [MAY] [True] [208]] 
+[SAT] [MAY] [True] [218]] 
+[FRI] [JUN] [False] [188]] 0
+[WED] [JUN] [False] [198]] 0
+[TUE] [JUN] [False] [208]] 0
+[SUN] [JUN] [False] [218]] 0
+[SAT] [JUL] [False] [188]] 0
+[THU] [JUL] [False] [198]] 0
+[WED] [JUL] [False] [208]] 0
+[MON] [JUL] [False] [218]] 0
+[MON] [AUG] [False] [188]] 0
+[SAT] [AUG] [False] [198]] 0
+[FRI] [AUG] [False] [208]] 00
+[WED] [AUG] [False] [218]] 0
+[WED] [SEP] [True] [188]] 
+[MON] [SEP] [True] [198]] 
+[SUN] [SEP] [True] [208]] 
+[FRI] [SEP] [True] [218]] 
+[WED] [OCT] [False] [188]] 0
+[MON] [OCT] [False] [198]] 0
+[SUN] [OCT] [False] [208]] 00
+[FRI] [OCT] [False] [218]] 00
+[FRI] [NOV] [False] [188]] 0
+[WED] [NOV] [False] [198]] 0
+[TUE] [NOV] [False] [208]] 0
+[SUN] [NOV] [False] [218]] 0
+[SAT] [DEC] [False] [188]] 0
+[THU] [DEC] [False] [198]] 0
+[WED] [DEC] [False] [208]] 0
+[MON] [DEC] [False] [218]] 0
+[SUN] [JAN] [True] [188]] 
+[FRI] [JAN] [True] [198]] 
+[THU] [JAN] [True] [208]] 
+[TUE] [JAN] [True] [218]] 
+[TUE] [FEB] [False] [187]] 0
+[SUN] [FEB] [False] [197]] 00
+[SAT] [FEB] [False] [207]] 0
+[THU] [FEB] [False] [217]] 00
+[MON] [MAR] [False] [187]] 0
+[SAT] [MAR] [False] [197]] 0
+[FRI] [MAR] [False] [207]] 00
+[WED] [MAR] [False] [217]] 0
+[WED] [APR] [False] [187]] 0
+[MON] [APR] [False] [197]] 0
+[SUN] [APR] [False] [207]] 00
+[FRI] [APR] [False] [217]] 00
+[THU] [MAY] [True] [187]] 
+[TUE] [MAY] [True] [197]] 
+[MON] [MAY] [True] [207]] 
+[SAT] [MAY] [True] [217]] 
+[FRI] [JUN] [False] [187]] 0
+[WED] [JUN] [False] [197]] 0
+[TUE] [JUN] [False] [207]] 0
+[SUN] [JUN] [False] [217]] 0
+[SAT] [JUL] [False] [187]] 0
+[THU] [JUL] [False] [197]] 0
+[WED] [JUL] [False] [207]] 0
+[MON] [JUL] [False] [217]] 0
+[MON] [AUG] [False] [187]] 0
+[SAT] [AUG] [False] [197]] 0
+[FRI] [AUG] [False] [207]] 00
+[WED] [AUG] [False] [217]] 0
+[WED] [SEP] [True] [187]] 
+[MON] [SEP] [True] [197]] 
+[SUN] [SEP] [True] [207]] 
+[FRI] [SEP] [True] [217]] 
+[WED] [OCT] [False] [187]] 0
+[MON] [OCT] [False] [197]] 0
+[SUN] [OCT] [False] [207]] 0
+[FRI] [OCT] [False] [217]] 00
+[FRI] [NOV] [False] [187]] 0
+[WED] [NOV] [False] [197]] 0
+[TUE] [NOV] [False] [207]] 0
+[SUN] [NOV] [False] [217]] 0
+[SAT] [DEC] [False] [186]] 0
+[THU] [DEC] [False] [196]] 0
+[WED] [DEC] [False] [206]] 0
+[MON] [DEC] [False] [216]] 0
+[SUN] [JAN] [True] [186]] 
+[FRI] [JAN] [True] [196]] 
+[THU] [JAN] [True] [206]] 
+[TUE] [JAN] [True] [216]] 
+[TUE] [FEB] [False] [186]] 0
+[SUN] [FEB] [False] [196]] 00
+[SAT] [FEB] [False] [206]] 0
+[THU] [FEB] [False] [216]] 00
+[MON] [MAR] [False] [186]] 0
+[SAT] [MAR] [False] [196]] 0
+[FRI] [MAR] [False] [206]] 00
+[WED] [MAR] [False] [216]] 0
+[WED] [APR] [False] [186]] 0
+[MON] [APR] [False] [196]] 0
+[SUN] [APR] [False] [206]] 00
+[FRI] [APR] [False] [216]] 00
+[THU] [MAY] [True] [186]] 
+[TUE] [MAY] [True] [196]] 
+[MON] [MAY] [True] [206]] 
+[SAT] [MAY] [True] [216]] 
+[FRI] [JUN] [False] [186]] 0
+[WED] [JUN] [False] [196]] 0
+[TUE] [JUN] [False] [206]] 0
+[SUN] [JUN] [False] [216]] 0
+[SAT] [JUL] [False] [186]] 0
+[THU] [JUL] [False] [196]] 0
+[WED] [JUL] [False] [206]] 0
+[MON] [JUL] [False] [216]] 0
+[MON] [AUG] [False] [186]] 0
+[SAT] [AUG] [False] [196]] 0
+[FRI] [AUG] [False] [206]] 00
+[WED] [AUG] [False] [216]] 0
+[WED] [SEP] [True] [186]] 
+[MON] [SEP] [True] [196]] 
+[SUN] [SEP] [True] [206]] 
+[FRI] [SEP] [True] [216]] 
+[WED] [OCT] [False] [185]] 0
+[MON] [OCT] [False] [195]] 0
+[SUN] [OCT] [False] [205]] 0
+[FRI] [OCT] [False] [215]] 00
+[FRI] [NOV] [False] [185]] 0
+[WED] [NOV] [False] [195]] 0
+[TUE] [NOV] [False] [205]] 0
+[SUN] [NOV] [False] [215]] 0
+[SAT] [DEC] [False] [185]] 0
+[THU] [DEC] [False] [195]] 0
+[WED] [DEC] [False] [205]] 0
+[MON] [DEC] [False] [215]] 0
+[SUN] [JAN] [True] [185]] 
+[FRI] [JAN] [True] [195]] 
+[THU] [JAN] [True] [205]] 
+[TUE] [JAN] [True] [215]] 
+[TUE] [FEB] [False] [185]] 0
+[SUN] [FEB] [False] [195]] 00
+[SAT] [FEB] [False] [205]] 0
+[THU] [FEB] [False] [215]] 00
+[MON] [MAR] [False] [185]] 0
+[SAT] [MAR] [False] [195]] 0
+[FRI] [MAR] [False] [205]] 00
+[WED] [MAR] [False] [215]] 0
+[WED] [APR] [False] [185]] 0
+[MON] [APR] [False] [195]] 0
+[SUN] [APR] [False] [205]] 00
+[FRI] [APR] [False] [215]] 00
+[THU] [MAY] [True] [185]] 
+[TUE] [MAY] [True] [195]] 
+[MON] [MAY] [True] [205]] 
+[SAT] [MAY] [True] [215]] 
+[FRI] [JUN] [False] [185]] 00
+[WED] [JUN] [False] [195]] 0
+[TUE] [JUN] [False] [205]] 0
+[SUN] [JUN] [False] [215]] 0
+[SAT] [JUL] [False] [185]] 0
+[THU] [JUL] [False] [195]] 0
+[WED] [JUL] [False] [205]] 0
+[MON] [JUL] [False] [215]] 0
+[MON] [AUG] [False] [184]] 0
+[SAT] [AUG] [False] [194]] 0
+[FRI] [AUG] [False] [204]] 00
+[WED] [AUG] [False] [214]] 0
+[WED] [SEP] [True] [184]] 
+[MON] [SEP] [True] [194]] 
+[SUN] [SEP] [True] [204]] 
+[FRI] [SEP] [True] [214]] 
+[WED] [OCT] [False] [184]] 0
+[MON] [OCT] [False] [194]] 0
+[SUN] [OCT] [False] [204]] 00
+[FRI] [OCT] [False] [214]] 00
+[FRI] [NOV] [False] [184]] 0
+[WED] [NOV] [False] [194]] 0
+[TUE] [NOV] [False] [204]] 0
+[SUN] [NOV] [False] [214]] 0
+[SAT] [DEC] [False] [184]] 0
+[THU] [DEC] [False] [194]] 00
+[WED] [DEC] [False] [204]] 0
+[MON] [DEC] [False] [214]] 0
+[SUN] [JAN] [True] [184]] 
+[FRI] [JAN] [True] [194]] 
+[THU] [JAN] [True] [204]] 
+[TUE] [JAN] [True] [214]] 
+[TUE] [FEB] [False] [184]] 0
+[SUN] [FEB] [False] [194]] 00
+[SAT] [FEB] [False] [204]] 0
+[THU] [FEB] [False] [214]] 00
+[MON] [MAR] [False] [184]] 0
+[SAT] [MAR] [False] [194]] 0
+[FRI] [MAR] [False] [204]] 00
+[WED] [MAR] [False] [214]] 0
+[WED] [APR] [False] [184]] 0
+[MON] [APR] [False] [194]] 0
+[SUN] [APR] [False] [204]] 00
+[FRI] [APR] [False] [214]] 00
+[THU] [MAY] [True] [184]] 
+[TUE] [MAY] [True] [194]] 
+[MON] [MAY] [True] [204]] 
+[SAT] [MAY] [True] [214]] 
+[FRI] [JUN] [False] [183]] 0
+[WED] [JUN] [False] [193]] 0
+[TUE] [JUN] [False] [203]] 0
+[SUN] [JUN] [False] [213]] 0
+[SAT] [JUL] [False] [183]] 0
+[THU] [JUL] [False] [193]] 0
+[WED] [JUL] [False] [203]] 0
+[MON] [JUL] [False] [213]] 0
+[MON] [AUG] [False] [183]] 0
+[SAT] [AUG] [False] [193]] 0
+[FRI] [AUG] [False] [203]] 00
+[WED] [AUG] [False] [213]] 0
+[WED] [SEP] [True] [183]] 
+[MON] [SEP] [True] [193]] 
+[SUN] [SEP] [True] [203]] 
+[FRI] [SEP] [True] [213]] 
+[WED] [OCT] [False] [183]] 0
+[MON] [OCT] [False] [193]] 0
+[SUN] [OCT] [False] [203]] 00
+[FRI] [OCT] [False] [213]] 00
+[FRI] [NOV] [False] [183]] 0
+[WED] [NOV] [False] [193]] 0
+[TUE] [NOV] [False] [203]] 0
+[SUN] [NOV] [False] [213]] 0
+[SAT] [DEC] [False] [183]] 0
+[THU] [DEC] [False] [193]] 0
+[WED] [DEC] [False] [203]] 0
+[MON] [DEC] [False] [213]] 0
+[SUN] [JAN] [True] [183]] 
+[FRI] [JAN] [True] [193]] 
+[THU] [JAN] [True] [203]] 
+[TUE] [JAN] [True] [213]] 
+[TUE] [FEB] [False] [183]] 0
+[SUN] [FEB] [False] [193]] 00
+[SAT] [FEB] [False] [203]] 0
+[THU] [FEB] [False] [213]] 00
+[MON] [MAR] [False] [183]] 0
+[SAT] [MAR] [False] [193]] 0
+[FRI] [MAR] [False] [203]] 00
+[WED] [MAR] [False] [213]] 0
+[WED] [APR] [False] [182]] 0
+[MON] [APR] [False] [192]] 0
+[SUN] [APR] [False] [202]] 00
+[FRI] [APR] [False] [212]] 00
+[THU] [MAY] [True] [182]] 
+[TUE] [MAY] [True] [192]] 
+[MON] [MAY] [True] [202]] 
+[SAT] [MAY] [True] [212]] 
+[FRI] [JUN] [False] [182]] 0
+[WED] [JUN] [False] [192]] 0
+[TUE] [JUN] [False] [202]] 0
+[SUN] [JUN] [False] [212]] 0
+[SAT] [JUL] [False] [182]] 0
+[THU] [JUL] [False] [192]] 0
+[WED] [JUL] [False] [202]] 0
+[MON] [JUL] [False] [212]] 0
+[MON] [AUG] [False] [182]] 0
+[SAT] [AUG] [False] [192]] 0
+[FRI] [AUG] [False] [202]] 00
+[WED] [AUG] [False] [212]] 0
+[WED] [SEP] [True] [182]] 
+[MON] [SEP] [True] [192]] 
+[SUN] [SEP] [True] [202]] 
+[FRI] [SEP] [True] [212]] 
+[WED] [OCT] [False] [182]] 0
+[MON] [OCT] [False] [192]] 0
+[SUN] [OCT] [False] [202]] 0
+[FRI] [OCT] [False] [212]] 00
+[FRI] [NOV] [False] [182]] 0
+[WED] [NOV] [False] [192]] 0
+[TUE] [NOV] [False] [202]] 0
+[SUN] [NOV] [False] [212]] 0
+[SAT] [DEC] [False] [182]] 0
+[THU] [DEC] [False] [192]] 0
+[WED] [DEC] [False] [202]] 0
+[MON] [DEC] [False] [212]] 0
+[SUN] [JAN] [True] [182]] 
+[FRI] [JAN] [True] [192]] 
+[THU] [JAN] [True] [202]] 
+[TUE] [JAN] [True] [212]] 
+[TUE] [FEB] [False] [181]] 0
+[SUN] [FEB] [False] [191]] 00
+[SAT] [FEB] [False] [201]] 0
+[THU] [FEB] [False] [211]] 00
+[MON] [MAR] [False] [181]] 0
+[SAT] [MAR] [False] [191]] 0
+[FRI] [MAR] [False] [201]] 00
+[WED] [MAR] [False] [211]] 0
+[WED] [APR] [False] [181]] 0
+[MON] [APR] [False] [191]] 0
+[SUN] [APR] [False] [201]] 00
+[FRI] [APR] [False] [211]] 00
+[THU] [MAY] [True] [181]] 
+[TUE] [MAY] [True] [191]] 
+[MON] [MAY] [True] [201]] 
+[SAT] [MAY] [True] [211]] 
+[FRI] [JUN] [False] [181]] 0
+[WED] [JUN] [False] [191]] 0
+[TUE] [JUN] [False] [201]] 0
+[SUN] [JUN] [False] [211]] 0
+[SAT] [JUL] [False] [181]] 0
+[THU] [JUL] [False] [191]] 0
+[WED] [JUL] [False] [201]] 0
+[MON] [JUL] [False] [211]] 0
+[MON] [AUG] [False] [181]] 0
+[SAT] [AUG] [False] [191]] 0
+[FRI] [AUG] [False] [201]] 00
+[WED] [AUG] [False] [211]] 0
+[WED] [SEP] [True] [181]] 
+[MON] [SEP] [True] [191]] 
+[SUN] [SEP] [True] [201]] 
+[FRI] [SEP] [True] [211]] 
+[WED] [OCT] [False] [181]] 0
+[MON] [OCT] [False] [191]] 0
+[SUN] [OCT] [False] [201]] 00
+[FRI] [OCT] [False] [211]] 00
+[FRI] [NOV] [False] [181]] 0
+[WED] [NOV] [False] [191]] 0
+[TUE] [NOV] [False] [201]] 0
+[SUN] [NOV] [False] [211]] 0
+[SAT] [DEC] [False] [180]] 0
+[THU] [DEC] [False] [190]] 0
+[WED] [DEC] [False] [200]] 0
+[MON] [DEC] [False] [210]] 0
+[SUN] [JAN] [True] [180]] 
+[FRI] [JAN] [True] [190]] 
+[THU] [JAN] [True] [200]] 
+[TUE] [JAN] [True] [210]] 
+[TUE] [FEB] [False] [180]] 00
+[SUN] [FEB] [False] [190]] 00
+[SAT] [FEB] [False] [200]] 0
+[THU] [FEB] [False] [210]] 00
+[MON] [MAR] [False] [180]] 0
+[SAT] [MAR] [False] [190]] 0
+[FRI] [MAR] [False] [200]] 00
+[WED] [MAR] [False] [210]] 0
+[WED] [APR] [False] [180]] 0
+[MON] [APR] [False] [190]] 0
+[SUN] [APR] [False] [200]] 00
+[FRI] [APR] [False] [210]] 00
+[THU] [MAY] [True] [180]] 
+[TUE] [MAY] [True] [190]] 
+[MON] [MAY] [True] [200]] 
+[SAT] [MAY] [True] [210]] 
+[FRI] [JUN] [False] [180]] 0
+[WED] [JUN] [False] [190]] 0
+[TUE] [JUN] [False] [200]] 0
+[SUN] [JUN] [False] [210]] 0
+[SAT] [JUL] [False] [180]] 0
+[THU] [JUL] [False] [190]] 0
+[WED] [JUL] [False] [200]] 0
+[MON] [JUL] [False] [210]] 0
+[MON] [AUG] [False] [180]] 0
+[SAT] [AUG] [False] [190]] 0
+[FRI] [AUG] [False] [200]] 00
+[WED] [AUG] [False] [210]] 0
+[WED] [SEP] [False] [180]] 0
+[MON] [SEP] [False] [190]] 0
+[SUN] [SEP] [True] [200]] 
+[FRI] [SEP] [False] [210]] 00
+[WED] [SEP] [False] [220]] 0
+[TUE] [OCT] [False] [189]] 0
+[SUN] [OCT] [False] [199]] 00
+[SAT] [OCT] [False] [209]] 0
+[THU] [OCT] [False] [219]] 00
+[THU] [NOV] [False] [189]] 0
+[TUE] [NOV] [False] [199]] 0
+[MON] [NOV] [False] [209]] 0
+[SAT] [NOV] [False] [219]] 0
+[FRI] [DEC] [False] [189]] 0
+[WED] [DEC] [False] [199]] 0
+[TUE] [DEC] [False] [209]] 0
+[SUN] [DEC] [False] [219]] 0
+[SAT] [JAN] [True] [189]] 
+[THU] [JAN] [True] [199]] 
+[WED] [JAN] [True] [209]] 
+[MON] [JAN] [True] [219]] 
+[MON] [FEB] [False] [189]] 0
+[SAT] [FEB] [False] [199]] 0
+[FRI] [FEB] [False] [209]] 00
+[WED] [FEB] [False] [219]] 0
+[SUN] [MAR] [False] [189]] 00
+[FRI] [MAR] [False] [199]] 00
+[THU] [MAR] [False] [209]] 00
+[TUE] [MAR] [False] [219]] 0
+[TUE] [APR] [False] [189]] 00
+[SUN] [APR] [False] [199]] 00
+[SAT] [APR] [False] [209]] 0
+[THU] [APR] [False] [219]] 00
+[WED] [MAY] [True] [189]] 
+[MON] [MAY] [True] [199]] 
+[SUN] [MAY] [True] [209]] 
+[FRI] [MAY] [True] [219]] 
+[THU] [JUN] [False] [189]] 0
+[TUE] [JUN] [False] [199]] 0
+[MON] [JUN] [False] [209]] 0
+[SAT] [JUN] [False] [219]] 0
+[FRI] [JUL] [False] [189]] 0
+[WED] [JUL] [False] [199]] 0
+[TUE] [JUL] [False] [209]] 0
+[SUN] [JUL] [False] [219]] 0
+[SUN] [AUG] [False] [188]] 00
+[FRI] [AUG] [False] [198]] 00
+[THU] [AUG] [False] [208]] 00
+[TUE] [AUG] [False] [218]] 0
+[TUE] [SEP] [True] [188]] 
+[SUN] [SEP] [True] [198]] 
+[SAT] [SEP] [True] [208]] 
+[THU] [SEP] [True] [218]] 
+[TUE] [OCT] [False] [188]] 0
+[SUN] [OCT] [False] [198]] 00
+[SAT] [OCT] [False] [208]] 0
+[THU] [OCT] [False] [218]] 00
+[THU] [NOV] [False] [188]] 0
+[TUE] [NOV] [False] [198]] 0
+[MON] [NOV] [False] [208]] 0
+[SAT] [NOV] [False] [218]] 0
+[FRI] [DEC] [False] [188]] 0
+[WED] [DEC] [False] [198]] 0
+[TUE] [DEC] [False] [208]] 0
+[SUN] [DEC] [False] [218]] 0
+[SAT] [JAN] [True] [188]] 
+[THU] [JAN] [True] [198]] 
+[WED] [JAN] [True] [208]] 
+[MON] [JAN] [True] [218]] 
+[MON] [FEB] [False] [188]] 0
+[SAT] [FEB] [False] [198]] 0
+[FRI] [FEB] [False] [208]] 00
+[WED] [FEB] [False] [218]] 0
+[SUN] [MAR] [False] [188]] 00
+[FRI] [MAR] [False] [198]] 00
+[THU] [MAR] [False] [208]] 00
+[TUE] [MAR] [False] [218]] 0
+[TUE] [APR] [False] [188]] 00
+[SUN] [APR] [False] [198]] 00
+[SAT] [APR] [False] [208]] 0
+[THU] [APR] [False] [218]] 00
+[WED] [MAY] [True] [188]] 
+[MON] [MAY] [True] [198]] 
+[SUN] [MAY] [True] [208]] 
+[FRI] [MAY] [True] [218]] 
+[THU] [JUN] [False] [187]] 0
+[TUE] [JUN] [False] [197]] 0
+[MON] [JUN] [False] [207]] 0
+[SAT] [JUN] [False] [217]] 0
+[FRI] [JUL] [False] [187]] 0
+[WED] [JUL] [False] [197]] 0
+[TUE] [JUL] [False] [207]] 0
+[SUN] [JUL] [False] [217]] 0
+[SUN] [AUG] [False] [187]] 00
+[FRI] [AUG] [False] [197]] 00
+[THU] [AUG] [False] [207]] 00
+[TUE] [AUG] [False] [217]] 0
+[TUE] [SEP] [True] [187]] 
+[SUN] [SEP] [True] [197]] 
+[SAT] [SEP] [True] [207]] 
+[THU] [SEP] [True] [217]] 
+[TUE] [OCT] [False] [187]] 0
+[SUN] [OCT] [False] [197]] 00
+[SAT] [OCT] [False] [207]] 0
+[THU] [OCT] [False] [217]] 00
+[THU] [NOV] [False] [187]] 0
+[TUE] [NOV] [False] [197]] 0
+[MON] [NOV] [False] [207]] 0
+[SAT] [NOV] [False] [217]] 0
+[FRI] [DEC] [False] [187]] 0
+[WED] [DEC] [False] [197]] 0
+[TUE] [DEC] [False] [207]] 0
+[SUN] [DEC] [False] [217]] 0
+[SAT] [JAN] [True] [187]] 
+[THU] [JAN] [True] [197]] 
+[WED] [JAN] [True] [207]] 
+[MON] [JAN] [True] [217]] 
+[MON] [FEB] [False] [187]] 0
+[SAT] [FEB] [False] [197]] 0
+[FRI] [FEB] [False] [207]] 00
+[WED] [FEB] [False] [217]] 0
+[SUN] [MAR] [False] [187]] 00
+[FRI] [MAR] [False] [197]] 00
+[THU] [MAR] [False] [207]] 00
+[TUE] [MAR] [False] [217]] 0
+[TUE] [APR] [False] [186]] 00
+[SUN] [APR] [False] [196]] 00
+[SAT] [APR] [False] [206]] 0
+[THU] [APR] [False] [216]] 00
+[WED] [MAY] [True] [186]] 
+[MON] [MAY] [True] [196]] 
+[SUN] [MAY] [True] [206]] 
+[FRI] [MAY] [True] [216]] 
+[THU] [JUN] [False] [186]] 0
+[TUE] [JUN] [False] [196]] 0
+[MON] [JUN] [False] [206]] 0
+[SAT] [JUN] [False] [216]] 0
+[FRI] [JUL] [False] [186]] 0
+[WED] [JUL] [False] [196]] 0
+[TUE] [JUL] [False] [206]] 0
+[SUN] [JUL] [False] [216]] 0
+[SUN] [AUG] [False] [186]] 00
+[FRI] [AUG] [False] [196]] 00
+[THU] [AUG] [False] [206]] 00
+[TUE] [AUG] [False] [216]] 0
+[TUE] [SEP] [True] [186]] 
+[SUN] [SEP] [True] [196]] 
+[SAT] [SEP] [True] [206]] 
+[THU] [SEP] [True] [216]] 
+[TUE] [OCT] [False] [186]] 0
+[SUN] [OCT] [False] [196]] 00
+[SAT] [OCT] [False] [206]] 0
+[THU] [OCT] [False] [216]] 00
+[THU] [NOV] [False] [186]] 0
+[TUE] [NOV] [False] [196]] 0
+[MON] [NOV] [False] [206]] 0
+[SAT] [NOV] [False] [216]] 0
+[FRI] [DEC] [False] [186]] 0
+[WED] [DEC] [False] [196]] 0
+[TUE] [DEC] [False] [206]] 0
+[SUN] [DEC] [False] [216]] 0
+[SAT] [JAN] [True] [186]] 
+[THU] [JAN] [True] [196]] 
+[WED] [JAN] [True] [206]] 
+[MON] [JAN] [True] [216]] 
+[MON] [FEB] [False] [185]] 0
+[SAT] [FEB] [False] [195]] 0
+[FRI] [FEB] [False] [205]] 00
+[WED] [FEB] [False] [215]] 0
+[SUN] [MAR] [False] [185]] 00
+[FRI] [MAR] [False] [195]] 00
+[THU] [MAR] [False] [205]] 00
+[TUE] [MAR] [False] [215]] 0
+[TUE] [APR] [False] [185]] 00
+[SUN] [APR] [False] [195]] 00
+[SAT] [APR] [False] [205]] 0
+[THU] [APR] [False] [215]] 00
+[WED] [MAY] [True] [185]] 
+[MON] [MAY] [True] [195]] 
+[SUN] [MAY] [True] [205]] 
+[FRI] [MAY] [True] [215]] 
+[THU] [JUN] [False] [185]] 0
+[TUE] [JUN] [False] [195]] 0
+[MON] [JUN] [False] [205]] 0
+[SAT] [JUN] [False] [215]] 0
+[FRI] [JUL] [False] [185]] 0
+[WED] [JUL] [False] [195]] 0
+[TUE] [JUL] [False] [205]] 0
+[SUN] [JUL] [False] [215]] 0
+[SUN] [AUG] [False] [185]] 00
+[FRI] [AUG] [False] [195]] 00
+[THU] [AUG] [False] [205]] 00
+[TUE] [AUG] [False] [215]] 0
+[TUE] [SEP] [True] [185]] 
+[SUN] [SEP] [True] [195]] 
+[SAT] [SEP] [True] [205]] 
+[THU] [SEP] [True] [215]] 
+[TUE] [OCT] [False] [185]] 0
+[SUN] [OCT] [False] [195]] 00
+[SAT] [OCT] [False] [205]] 0
+[THU] [OCT] [False] [215]] 00
+[THU] [NOV] [False] [185]] 0
+[TUE] [NOV] [False] [195]] 0
+[MON] [NOV] [False] [205]] 0
+[SAT] [NOV] [False] [215]] 0
+[FRI] [DEC] [False] [184]] 0
+[WED] [DEC] [False] [194]] 0
+[TUE] [DEC] [False] [204]] 0
+[SUN] [DEC] [False] [214]] 0
+[SAT] [JAN] [True] [184]] 
+[THU] [JAN] [True] [194]] 
+[WED] [JAN] [True] [204]] 
+[MON] [JAN] [True] [214]] 
+[MON] [FEB] [False] [184]] 0
+[SAT] [FEB] [False] [194]] 0
+[FRI] [FEB] [False] [204]] 00
+[WED] [FEB] [False] [214]] 0
+[SUN] [MAR] [False] [184]] 00
+[FRI] [MAR] [False] [194]] 00
+[THU] [MAR] [False] [204]] 00
+[TUE] [MAR] [False] [214]] 0
+[TUE] [APR] [False] [184]] 00
+[SUN] [APR] [False] [194]] 00
+[SAT] [APR] [False] [204]] 0
+[THU] [APR] [False] [214]] 00
+[WED] [MAY] [True] [184]] 
+[MON] [MAY] [True] [194]] 
+[SUN] [MAY] [True] [204]] 
+[FRI] [MAY] [True] [214]] 
+[THU] [JUN] [False] [184]] 0
+[TUE] [JUN] [False] [194]] 0
+[MON] [JUN] [False] [204]] 0
+[SAT] [JUN] [False] [214]] 0
+[FRI] [JUL] [False] [184]] 0
+[WED] [JUL] [False] [194]] 0
+[TUE] [JUL] [False] [204]] 0
+[SUN] [JUL] [False] [214]] 0
+[SUN] [AUG] [False] [184]] 00
+[FRI] [AUG] [False] [194]] 00
+[THU] [AUG] [False] [204]] 00
+[TUE] [AUG] [False] [214]] 0
+[TUE] [SEP] [True] [184]] 
+[SUN] [SEP] [True] [194]] 
+[SAT] [SEP] [True] [204]] 
+[THU] [SEP] [True] [214]] 
+[TUE] [OCT] [False] [183]] 0
+[SUN] [OCT] [False] [193]] 0
+[SAT] [OCT] [False] [203]] 0
+[THU] [OCT] [False] [213]] 00
+[THU] [NOV] [False] [183]] 0
+[TUE] [NOV] [False] [193]] 0
+[MON] [NOV] [False] [203]] 0
+[SAT] [NOV] [False] [213]] 0
+[FRI] [DEC] [False] [183]] 0
+[WED] [DEC] [False] [193]] 0
+[TUE] [DEC] [False] [203]] 0
+[SUN] [DEC] [False] [213]] 0
+[SAT] [JAN] [True] [183]] 
+[THU] [JAN] [True] [193]] 
+[WED] [JAN] [True] [203]] 
+[MON] [JAN] [True] [213]] 
+[MON] [FEB] [False] [183]] 0
+[SAT] [FEB] [False] [193]] 0
+[FRI] [FEB] [False] [203]] 00
+[WED] [FEB] [False] [213]] 0
+[SUN] [MAR] [False] [183]] 00
+[FRI] [MAR] [False] [193]] 00
+[THU] [MAR] [False] [203]] 00
+[TUE] [MAR] [False] [213]] 0
+[TUE] [APR] [False] [183]] 00
+[SUN] [APR] [False] [193]] 00
+[SAT] [APR] [False] [203]] 00
+[THU] [APR] [False] [213]] 00
+[WED] [MAY] [True] [183]] 
+[MON] [MAY] [True] [193]] 
+[SUN] [MAY] [True] [203]] 
+[FRI] [MAY] [True] [213]] 
+[THU] [JUN] [False] [183]] 0
+[TUE] [JUN] [False] [193]] 0
+[MON] [JUN] [False] [203]] 0
+[SAT] [JUN] [False] [213]] 0
+[FRI] [JUL] [False] [183]] 0
+[WED] [JUL] [False] [193]] 0
+[TUE] [JUL] [False] [203]] 0
+[SUN] [JUL] [False] [213]] 0
+[SUN] [AUG] [False] [182]] 00
+[FRI] [AUG] [False] [192]] 00
+[THU] [AUG] [False] [202]] 00
+[TUE] [AUG] [False] [212]] 00
+[TUE] [SEP] [True] [182]] 
+[SUN] [SEP] [True] [192]] 
+[SAT] [SEP] [True] [202]] 
+[THU] [SEP] [True] [212]] 
+[TUE] [OCT] [False] [182]] 0
+[SUN] [OCT] [False] [192]] 00
+[SAT] [OCT] [False] [202]] 0
+[THU] [OCT] [False] [212]] 00
+[THU] [NOV] [False] [182]] 0
+[TUE] [NOV] [False] [192]] 0
+[MON] [NOV] [False] [202]] 0
+[SAT] [NOV] [False] [212]] 0
+[FRI] [DEC] [False] [182]] 0
+[WED] [DEC] [False] [192]] 0
+[TUE] [DEC] [False] [202]] 0
+[SUN] [DEC] [False] [212]] 0
+[SAT] [JAN] [True] [182]] 
+[THU] [JAN] [True] [192]] 
+[WED] [JAN] [True] [202]] 
+[MON] [JAN] [True] [212]] 
+[MON] [FEB] [False] [182]] 0
+[SAT] [FEB] [False] [192]] 0
+[FRI] [FEB] [False] [202]] 00
+[WED] [FEB] [False] [212]] 0
+[SUN] [MAR] [False] [182]] 00
+[FRI] [MAR] [False] [192]] 00
+[THU] [MAR] [False] [202]] 00
+[TUE] [MAR] [False] [212]] 0
+[TUE] [APR] [False] [182]] 00
+[SUN] [APR] [False] [192]] 00
+[SAT] [APR] [False] [202]] 0
+[THU] [APR] [False] [212]] 00
+[WED] [MAY] [True] [182]] 
+[MON] [MAY] [True] [192]] 
+[SUN] [MAY] [True] [202]] 
+[FRI] [MAY] [True] [212]] 
+[THU] [JUN] [False] [181]] 0
+[TUE] [JUN] [False] [191]] 0
+[MON] [JUN] [False] [201]] 0
+[SAT] [JUN] [False] [211]] 0
+[FRI] [JUL] [False] [181]] 0
+[WED] [JUL] [False] [191]] 0
+[TUE] [JUL] [False] [201]] 0
+[SUN] [JUL] [False] [211]] 0
+[SUN] [AUG] [False] [181]] 00
+[FRI] [AUG] [False] [191]] 00
+[THU] [AUG] [False] [201]] 00
+[TUE] [AUG] [False] [211]] 0
+[TUE] [SEP] [True] [181]] 
+[SUN] [SEP] [True] [191]] 
+[SAT] [SEP] [True] [201]] 
+[THU] [SEP] [True] [211]] 
+[TUE] [OCT] [False] [181]] 0
+[SUN] [OCT] [False] [191]] 00
+[SAT] [OCT] [False] [201]] 0
+[THU] [OCT] [False] [211]] 00
+[THU] [NOV] [False] [181]] 0
+[TUE] [NOV] [False] [191]] 0
+[MON] [NOV] [False] [201]] 0
+[SAT] [NOV] [False] [211]] 0
+[FRI] [DEC] [False] [181]] 0
+[WED] [DEC] [False] [191]] 0
+[TUE] [DEC] [False] [201]] 0
+[SUN] [DEC] [False] [211]] 0
+[SAT] [JAN] [True] [181]] 
+[THU] [JAN] [True] [191]] 
+[WED] [JAN] [True] [201]] 
+[MON] [JAN] [True] [211]] 
+[MON] [FEB] [False] [181]] 0
+[SAT] [FEB] [False] [191]] 0
+[FRI] [FEB] [False] [201]] 00
+[WED] [FEB] [False] [211]] 0
+[SUN] [MAR] [False] [181]] 00
+[FRI] [MAR] [False] [191]] 00
+[THU] [MAR] [False] [201]] 00
+[TUE] [MAR] [False] [211]] 0
+[TUE] [APR] [False] [180]] 0
+[SUN] [APR] [False] [190]] 00
+[SAT] [APR] [False] [200]] 0
+[THU] [APR] [False] [210]] 00
+[WED] [MAY] [True] [180]] 
+[MON] [MAY] [True] [190]] 
+[SUN] [MAY] [True] [200]] 
+[FRI] [MAY] [True] [210]] 
+[THU] [JUN] [False] [180]] 0
+[TUE] [JUN] [False] [190]] 0
+[MON] [JUN] [False] [200]] 0
+[SAT] [JUN] [False] [210]] 0
+[FRI] [JUL] [False] [180]] 0
+[WED] [JUL] [False] [190]] 0
+[TUE] [JUL] [False] [200]] 0
+[SUN] [JUL] [False] [210]] 0
+[SUN] [AUG] [False] [180]] 00
+[FRI] [AUG] [False] [190]] 00
+[THU] [AUG] [False] [200]] 00
+[TUE] [AUG] [False] [210]] 0
+[TUE] [SEP] [True] [180]] 
+[SUN] [SEP] [True] [190]] 
+[SAT] [SEP] [True] [200]] 
+[THU] [SEP] [True] [210]] 
+[TUE] [OCT] [False] [180]] 0
+[SUN] [OCT] [False] [190]] 00
+[SAT] [OCT] [False] [200]] 0
+[THU] [OCT] [False] [210]] 00
+[THU] [NOV] [False] [180]] 0
+[TUE] [NOV] [False] [190]] 0
+[MON] [NOV] [False] [200]] 0
+[SAT] [NOV] [False] [210]] 0
+[FRI] [DEC] [False] [180]] 0
+[WED] [DEC] [False] [190]] 0
+[TUE] [DEC] [False] [200]] 0
+[SUN] [DEC] [False] [210]] 0
+[SUN] [JAN] [False] [180]] 0
+[FRI] [JAN] [False] [190]] 00
+[WED] [JAN] [True] [200]] 
+[TUE] [JAN] [False] [210]] 0
+[SUN] [JAN] [False] [220]] 0
+[SUN] [FEB] [False] [189]] 00
+[FRI] [FEB] [False] [199]] 00
+[THU] [FEB] [False] [209]] 00
+[TUE] [FEB] [False] [219]] 0
+[SAT] [MAR] [False] [189]] 0
+[THU] [MAR] [False] [199]] 00
+[WED] [MAR] [False] [209]] 0
+[MON] [MAR] [False] [219]] 0
+[MON] [APR] [False] [189]] 0
+[SAT] [APR] [False] [199]] 0
+[FRI] [APR] [False] [209]] 00
+[WED] [APR] [False] [219]] 0
+[TUE] [MAY] [True] [189]] 
+[SUN] [MAY] [True] [199]] 
+[SAT] [MAY] [True] [209]] 
+[THU] [MAY] [True] [219]] 
+[WED] [JUN] [False] [189]] 0
+[MON] [JUN] [False] [199]] 0
+[SUN] [JUN] [False] [209]] 0
+[FRI] [JUN] [False] [219]] 0
+[THU] [JUL] [False] [189]] 0
+[TUE] [JUL] [False] [199]] 0
+[MON] [JUL] [False] [209]] 0
+[SAT] [JUL] [False] [219]] 0
+[SAT] [AUG] [False] [189]] 0
+[THU] [AUG] [False] [199]] 00
+[WED] [AUG] [False] [209]] 0
+[MON] [AUG] [False] [219]] 0
+[MON] [SEP] [True] [189]] 
+[SAT] [SEP] [True] [199]] 
+[FRI] [SEP] [True] [209]] 
+[WED] [SEP] [True] [219]] 
+[MON] [OCT] [False] [189]] 0
+[SAT] [OCT] [False] [199]] 0
+[FRI] [OCT] [False] [209]] 00
+[WED] [OCT] [False] [219]] 0
+[WED] [NOV] [False] [189]] 0
+[MON] [NOV] [False] [199]] 0
+[SUN] [NOV] [False] [209]] 0
+[FRI] [NOV] [False] [219]] 0
+[THU] [DEC] [False] [188]] 0
+[TUE] [DEC] [False] [198]] 0
+[MON] [DEC] [False] [208]] 0
+[SAT] [DEC] [False] [218]] 0
+[FRI] [JAN] [True] [188]] 
+[WED] [JAN] [True] [198]] 
+[TUE] [JAN] [True] [208]] 
+[SUN] [JAN] [True] [218]] 
+[SUN] [FEB] [False] [188]] 00
+[FRI] [FEB] [False] [198]] 00
+[THU] [FEB] [False] [208]] 00
+[TUE] [FEB] [False] [218]] 0
+[SAT] [MAR] [False] [188]] 0
+[THU] [MAR] [False] [198]] 00
+[WED] [MAR] [False] [208]] 0
+[MON] [MAR] [False] [218]] 0
+[MON] [APR] [False] [188]] 0
+[SAT] [APR] [False] [198]] 0
+[FRI] [APR] [False] [208]] 00
+[WED] [APR] [False] [218]] 0
+[TUE] [MAY] [True] [188]] 
+[SUN] [MAY] [True] [198]] 
+[SAT] [MAY] [True] [208]] 
+[THU] [MAY] [True] [218]] 
+[WED] [JUN] [False] [188]] 0
+[MON] [JUN] [False] [198]] 0
+[SUN] [JUN] [False] [208]] 0
+[FRI] [JUN] [False] [218]] 0
+[THU] [JUL] [False] [188]] 0
+[TUE] [JUL] [False] [198]] 0
+[MON] [JUL] [False] [208]] 0
+[SAT] [JUL] [False] [218]] 0
+[SAT] [AUG] [False] [188]] 0
+[THU] [AUG] [False] [198]] 00
+[WED] [AUG] [False] [208]] 0
+[MON] [AUG] [False] [218]] 0
+[MON] [SEP] [True] [188]] 
+[SAT] [SEP] [True] [198]] 
+[FRI] [SEP] [True] [208]] 
+[WED] [SEP] [True] [218]] 
+[MON] [OCT] [False] [187]] 0
+[SAT] [OCT] [False] [197]] 0
+[FRI] [OCT] [False] [207]] 00
+[WED] [OCT] [False] [217]] 0
+[WED] [NOV] [False] [187]] 0
+[MON] [NOV] [False] [197]] 0
+[SUN] [NOV] [False] [207]] 0
+[FRI] [NOV] [False] [217]] 0
+[THU] [DEC] [False] [187]] 0
+[TUE] [DEC] [False] [197]] 0
+[MON] [DEC] [False] [207]] 0
+[SAT] [DEC] [False] [217]] 0
+[FRI] [JAN] [True] [187]] 
+[WED] [JAN] [True] [197]] 
+[TUE] [JAN] [True] [207]] 
+[SUN] [JAN] [True] [217]] 
+[SUN] [FEB] [False] [187]] 00
+[FRI] [FEB] [False] [197]] 00
+[THU] [FEB] [False] [207]] 00
+[TUE] [FEB] [False] [217]] 0
+[SAT] [MAR] [False] [187]] 0
+[THU] [MAR] [False] [197]] 00
+[WED] [MAR] [False] [207]] 0
+[MON] [MAR] [False] [217]] 0
+[MON] [APR] [False] [187]] 0
+[SAT] [APR] [False] [197]] 0
+[FRI] [APR] [False] [207]] 00
+[WED] [APR] [False] [217]] 0
+[TUE] [MAY] [True] [187]] 
+[SUN] [MAY] [True] [197]] 
+[SAT] [MAY] [True] [207]] 
+[THU] [MAY] [True] [217]] 
+[WED] [JUN] [False] [187]] 0
+[MON] [JUN] [False] [197]] 0
+[SUN] [JUN] [False] [207]] 0
+[FRI] [JUN] [False] [217]] 0
+[THU] [JUL] [False] [187]] 0
+[TUE] [JUL] [False] [197]] 0
+[MON] [JUL] [False] [207]] 0
+[SAT] [JUL] [False] [217]] 0
+[SAT] [AUG] [False] [186]] 0
+[THU] [AUG] [False] [196]] 00
+[WED] [AUG] [False] [206]] 0
+[MON] [AUG] [False] [216]] 0
+[MON] [SEP] [True] [186]] 
+[SAT] [SEP] [True] [196]] 
+[FRI] [SEP] [True] [206]] 
+[WED] [SEP] [True] [216]] 
+[MON] [OCT] [False] [186]] 0
+[SAT] [OCT] [False] [196]] 0
+[FRI] [OCT] [False] [206]] 00
+[WED] [OCT] [False] [216]] 0
+[WED] [NOV] [False] [186]] 0
+[MON] [NOV] [False] [196]] 0
+[SUN] [NOV] [False] [206]] 0
+[FRI] [NOV] [False] [216]] 0
+[THU] [DEC] [False] [186]] 0
+[TUE] [DEC] [False] [196]] 0
+[MON] [DEC] [False] [206]] 0
+[SAT] [DEC] [False] [216]] 0
+[FRI] [JAN] [True] [186]] 
+[WED] [JAN] [True] [196]] 
+[TUE] [JAN] [True] [206]] 
+[SUN] [JAN] [True] [216]] 
+[SUN] [FEB] [True] [206]] 
+[THU] [MAR] [False] [186]] 00
+[TUE] [MAR] [False] [196]] 0
+[MON] [MAR] [False] [206]] 0
+[SAT] [MAR] [False] [216]] 0
+[SAT] [APR] [False] [186]] 0
+[THU] [APR] [False] [196]] 00
+[WED] [APR] [False] [206]] 0
+[MON] [APR] [False] [216]] 0
+[SUN] [MAY] [True] [186]] 
+[FRI] [MAY] [True] [196]] 
+[THU] [MAY] [True] [206]] 
+[TUE] [MAY] [True] [216]] 
+[MON] [JUN] [False] [186]] 0
+[SAT] [JUN] [False] [196]] 0
+[FRI] [JUN] [False] [206]] 0
+[WED] [JUN] [False] [216]] 0
+[TUE] [JUL] [False] [186]] 0
+[SUN] [JUL] [False] [196]] 0
+[SAT] [JUL] [False] [206]] 0
+[THU] [JUL] [False] [216]] 0
+[THU] [AUG] [False] [186]] 00
+[TUE] [AUG] [False] [196]] 0
+[MON] [AUG] [False] [206]] 0
+[SAT] [AUG] [False] [216]] 0
+[SAT] [SEP] [True] [186]] 
+[THU] [SEP] [True] [196]] 
+[WED] [SEP] [True] [206]] 
+[MON] [SEP] [True] [216]] 
+[SAT] [OCT] [False] [185]] 0
+[THU] [OCT] [False] [195]] 00
+[WED] [OCT] [False] [205]] 0
+[MON] [OCT] [False] [215]] 0
+[MON] [NOV] [False] [185]] 0
+[SAT] [NOV] [False] [195]] 0
+[FRI] [NOV] [False] [205]] 0
+[WED] [NOV] [False] [215]] 0
+[TUE] [DEC] [False] [185]] 0
+[SUN] [DEC] [False] [195]] 0
+[SAT] [DEC] [False] [205]] 0
+[THU] [DEC] [False] [215]] 0
+[WED] [JAN] [True] [185]] 
+[MON] [JAN] [True] [195]] 
+[SUN] [JAN] [True] [205]] 
+[FRI] [JAN] [True] [215]] 
+[FRI] [MAR] [False] [185]] 00
+[WED] [MAR] [False] [195]] 0
+[TUE] [MAR] [False] [205]] 0
+[SUN] [MAR] [False] [215]] 00
+[SUN] [APR] [False] [185]] 00
+[FRI] [APR] [False] [195]] 00
+[THU] [APR] [False] [205]] 00
+[TUE] [APR] [False] [215]] 00
+[MON] [MAY] [False] [185]] 0
+[SAT] [MAY] [False] [195]] 0
+[FRI] [MAY] [False] [205]] 00
+[WED] [MAY] [False] [215]] 0
+[WED] [JUN] [True] [185]] 
+[MON] [JUN] [True] [195]] 
+[SUN] [JUN] [True] [205]] 
+[FRI] [JUN] [True] [215]] 
+[WED] [JUL] [False] [185]] 0
+[MON] [JUL] [False] [195]] 0
+[SUN] [JUL] [False] [205]] 0
+[FRI] [JUL] [False] [215]] 0
+[FRI] [AUG] [False] [185]] 00
+[WED] [AUG] [False] [195]] 0
+[TUE] [AUG] [False] [205]] 0
+[SUN] [AUG] [False] [215]] 00
+[SUN] [SEP] [False] [184]] 0
+[FRI] [SEP] [False] [194]] 0
+[THU] [SEP] [False] [204]] 0
+[TUE] [SEP] [False] [214]] 0
+[MON] [OCT] [True] [184]] 
+[SAT] [OCT] [True] [194]] 
+[FRI] [OCT] [True] [204]] 
+[WED] [OCT] [True] [214]] 
+[TUE] [NOV] [False] [184]] 0
+[SUN] [NOV] [False] [194]] 0
+[SAT] [NOV] [False] [204]] 0
+[THU] [NOV] [False] [214]] 0
+[WED] [DEC] [False] [184]] 0
+[MON] [DEC] [False] [194]] 0
+[SUN] [DEC] [False] [204]] 0
+[FRI] [DEC] [False] [214]] 0
+[FRI] [JAN] [False] [184]] 00
+[WED] [JAN] [False] [194]] 0
+[TUE] [JAN] [False] [204]] 0
+[SUN] [JAN] [False] [214]] 0
+[SUN] [MAR] [True] [184]] 
+[FRI] [MAR] [True] [194]] 
+[THU] [MAR] [True] [204]] 
+[TUE] [MAR] [True] [214]] 
+[WED] [MAY] [False] [184]] 0
+[MON] [MAY] [False] [194]] 0
+[SUN] [MAY] [False] [204]] 00
+[FRI] [MAY] [False] [214]] 00
+[SUN] [JUL] [False] [184]] 0
+[FRI] [JUL] [False] [194]] 0
+[THU] [JUL] [False] [204]] 0
+[TUE] [JUL] [False] [214]] 0
+[TUE] [AUG] [False] [184]] 0
+[SUN] [AUG] [False] [194]] 00
+[SAT] [AUG] [False] [204]] 0
+[THU] [AUG] [False] [214]] 00
+[SAT] [OCT] [True] [184]] 
+[THU] [OCT] [True] [194]] 
+[WED] [OCT] [True] [204]] 
+[MON] [OCT] [True] [214]] 
+[TUE] [DEC] [False] [183]] 0
+[SUN] [DEC] [False] [193]] 0
+[SAT] [DEC] [False] [203]] 0
+[THU] [DEC] [False] [213]] 0
